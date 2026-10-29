@@ -5,9 +5,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Zwain-UnU&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Lenguajes Más Usados
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwain-UnU&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Lenguajes de Zwain](https://metrics.lecoq.io/Zwain-UnU?template=classic&base=0&languages=1&languages.limit=5&languages.layout=compact&config.timezone=America%2FMexico_City)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Zwain-UnU&layout=compact&theme=dark&v=1)](https://github.com/anuraghazra/github-readme-stats)
+### Estadísticas de GitHub
+[![Estadísticas de Zwain](https://github-readme-stats.vercel.app/api?username=Zwain-UnU&show_icons=true&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&icon_color=8b949e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
