@@ -2,7 +2,7 @@
   <h1>Hi Chat, I'm Zwain ! 👾</h1>
   
   <a href="https://github.com/Zwain-UnU">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=d1d5da&center=true&vCenter=true&width=435&lines=Hi+Chat+:D;IT+Student+at+UTD;I+like+learn+new+technologys;Code+Code+Code+!!!;And+I+love+my+girlfriend+<3;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=d1d5da&center=true&vCenter=true&width=435&lines=Hi+Chat+:D;IT+Student+at+UTD;I+like+learning+new+technologies;Code+Code+Code+!!!;And+I+love+my+girlfriend+%3C3" alt="Typing SVG" />
   </a>
 </div>
 
