@@ -24,9 +24,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 ### 📊 GitHub Overview
 
-| ⚡ Stats | 💻 Top Languages |
-| :---: | :---: |
-| [![Zwain's Stats](https://github-stats-extended.vercel.app/api?username=Zwain-UnU&show_icons=true&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&icon_color=8b949e&hide_border=true)](https://github.com/Zwain-UnU) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Zwain-UnU&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&hide_border=true)](https://github.com/Zwain-UnU) |
+<div align="center">
+
+<a href="https://github.com/Zwain-UnU">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Zwain-UnU&show_icons=true&bg_color=0d1117&title_color=c084fc&text_color=d1d5da&icon_color=8b5cf6&hide_border=true" />
+</a>
+
+<a href="https://github.com/Zwain-UnU">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zwain-UnU&layout=compact&bg_color=0d1117&title_color=c084fc&text_color=d1d5da&hide_border=true" />
+</a>
+
+</div>
