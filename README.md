@@ -29,4 +29,4 @@
 
 | ⚡ Stats | 💻 Top Languages |
 | :---: | :---: |
-| [![Zwain's Stats](https://github-readme-stats.vercel.app/api?username=Zwain-UnU&show_icons=true&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&icon_color=8b949e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwain-UnU&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Zwain's Stats](https://github-stats-extended.vercel.app/api?username=Zwain-UnU&show_icons=true&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&icon_color=8b949e&hide_border=true)](https://github.com/Zwain-UnU) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Zwain-UnU&bg_color=2b2b2b&title_color=f6f8fa&text_color=d1d5da&hide_border=true)](https://github.com/Zwain-UnU) |
